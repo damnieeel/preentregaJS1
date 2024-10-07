@@ -33,7 +33,7 @@ let menuAdulto = function(){
                 alert(sinAlcohol.join('\n'));
                 break;
             case '*':
-                alert('Gracias por visitarnos, recuerda que puedes volver cuando quieras')
+                alert('Gracias por visitarnos, recuerda que puedes volver cuando quieras');
                 break;
             default:
                 alert('Opción inválida');
@@ -62,7 +62,7 @@ let menuNino = function(){
                 alert(jugos.join('\n'));
                 break;
             case '*':
-                alert('Gracias por visitarnos, recuerda que puedes volver cuando quieras')
+                alert('Gracias por visitarnos, recuerda que puedes volver cuando quieras');
                 break;
             default:
                 alert('Opción inválida');
