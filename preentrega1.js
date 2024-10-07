@@ -60,6 +60,7 @@ let menuNino = function(){
                 break;
             case '2':
                 alert(jugos.join('\n'));
+                break;
             case '*':
                 alert('Gracias por visitarnos, recuerda que puedes volver cuando quieras')
                 break;
